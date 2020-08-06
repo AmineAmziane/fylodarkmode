@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f9c0c4303b83aadf460d77a9932d1a8",
+    "revision": "250f94c3a8b559b005ce8868cb0c3926",
     "url": "/fylodarkmode/index.html"
   },
   {
-    "revision": "d554e3acca84ea35c5e7",
-    "url": "/fylodarkmode/static/css/main.f9d73fb5.chunk.css"
+    "revision": "91c181abce1763f4ac00",
+    "url": "/fylodarkmode/static/css/main.a3bc3046.chunk.css"
   },
   {
     "revision": "7441257fcca77d69af34",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fylodarkmode/static/js/2.a3c0d84c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d554e3acca84ea35c5e7",
-    "url": "/fylodarkmode/static/js/main.c1874914.chunk.js"
+    "revision": "91c181abce1763f4ac00",
+    "url": "/fylodarkmode/static/js/main.fa01cc75.chunk.js"
   },
   {
     "revision": "8b96d442f7e619076e5b",

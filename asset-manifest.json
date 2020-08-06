@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fylodarkmode/static/css/main.f9d73fb5.chunk.css",
-    "main.js": "/fylodarkmode/static/js/main.c1874914.chunk.js",
-    "main.js.map": "/fylodarkmode/static/js/main.c1874914.chunk.js.map",
+    "main.css": "/fylodarkmode/static/css/main.a3bc3046.chunk.css",
+    "main.js": "/fylodarkmode/static/js/main.fa01cc75.chunk.js",
+    "main.js.map": "/fylodarkmode/static/js/main.fa01cc75.chunk.js.map",
     "runtime-main.js": "/fylodarkmode/static/js/runtime-main.dfd9d521.js",
     "runtime-main.js.map": "/fylodarkmode/static/js/runtime-main.dfd9d521.js.map",
     "static/js/2.a3c0d84c.chunk.js": "/fylodarkmode/static/js/2.a3c0d84c.chunk.js",
     "static/js/2.a3c0d84c.chunk.js.map": "/fylodarkmode/static/js/2.a3c0d84c.chunk.js.map",
     "index.html": "/fylodarkmode/index.html",
-    "precache-manifest.4951cd717388be2ee971d8982460cb97.js": "/fylodarkmode/precache-manifest.4951cd717388be2ee971d8982460cb97.js",
+    "precache-manifest.b1410635527f7066e767e0ca189f9301.js": "/fylodarkmode/precache-manifest.b1410635527f7066e767e0ca189f9301.js",
     "service-worker.js": "/fylodarkmode/service-worker.js",
-    "static/css/main.f9d73fb5.chunk.css.map": "/fylodarkmode/static/css/main.f9d73fb5.chunk.css.map",
+    "static/css/main.a3bc3046.chunk.css.map": "/fylodarkmode/static/css/main.a3bc3046.chunk.css.map",
     "static/js/2.a3c0d84c.chunk.js.LICENSE.txt": "/fylodarkmode/static/js/2.a3c0d84c.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/fylodarkmode/static/media/bg-curvy-mobile.bb63956f.svg",
     "static/media/icon-access-anywhere.svg": "/fylodarkmode/static/media/icon-access-anywhere.5f4b8b3e.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.dfd9d521.js",
     "static/js/2.a3c0d84c.chunk.js",
-    "static/css/main.f9d73fb5.chunk.css",
-    "static/js/main.c1874914.chunk.js"
+    "static/css/main.a3bc3046.chunk.css",
+    "static/js/main.fa01cc75.chunk.js"
   ]
 }

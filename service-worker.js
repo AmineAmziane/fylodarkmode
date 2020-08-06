@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fylodarkmode/precache-manifest.4951cd717388be2ee971d8982460cb97.js"
+  "/fylodarkmode/precache-manifest.b1410635527f7066e767e0ca189f9301.js"
 );
 
 self.addEventListener('message', (event) => {
