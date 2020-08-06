@@ -1,0 +1,55 @@
+.header {
+  font-family: "Raleway", sans-serif;
+  background-image: url("./../images/bg-curvy-desktop.svg");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: 100% 320px;
+  padding-bottom: 10em;
+  background-color: #1c2230;
+  @media (max-width: 768px) {
+    background-image: url("./../images/bg-curvy-mobile.svg");
+  }
+  .inner-header {
+    width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    @media (max-width: 768px) {
+      width: 90%;
+    }
+  }
+  img {
+    width: 100%;
+    height: auto;
+    margin: 0 0 1.5em 0;
+  }
+  h1 {
+    font-size: 2.6rem;
+    margin: 0.35em 0;
+  }
+  p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.25rem;
+    width: 82%;
+    margin: 1.5em auto;
+    color: #ccd3da;
+    line-height: 2rem;
+  }
+  button {
+    padding: 0.875em 5em;
+    background-color: hsl(198, 60%, 50%);
+    border: 1px solid transparent;
+    color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    font-weight: 700;
+    font-size: 1.15rem;
+    cursor: pointer;
+    -webkit-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+    &:hover {
+      background-color: transparent;
+      color: hsl(198, 60%, 50%);
+      border: 1px solid hsl(198, 60%, 50%);
+    }
+  }
+}

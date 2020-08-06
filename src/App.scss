@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+body,html{
+  font-size: 14px;
+  overflow-x: hidden;
+  color: hsl(0, 0%, 100%);
+}
+li{
+  list-style: none;
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+button,input{
+  border:0;
+}
+button:focus,input:focus{
+  outline: none;
+}
+body{
+  color: #fff;
+}
